@@ -6,8 +6,8 @@ Bem-vindo ao meu repositório! Aqui você encontrará os desafios que realizei c
 
 Este repositório contém as soluções para os desafios propostos pela Pigz, que incluem:
 
-1. **Desafio de QA**: Especificações e soluções para testes de qualidade.
-2. **Desafio de Analista de Requisitos**: Documentação detalhada da feature de Dashboard de Gerenciamento de Lojas, incluindo especificações e fluxos de funcionamento.
+1. **Desafio de QA**: Especificações para teste das funcionalidades de Cadastro de Restaurante, Cadastro de Cardápio e relato de bug encontrado na funcionalidade Cadastro de Entregador.
+2. **Desafio de Analista de Requisitos**: Documentação detalhando como eu conduziria uma feature discovery para a funcionalidade Dashboard de Gerenciamento de Lojas.
 
 ## Currículo
 

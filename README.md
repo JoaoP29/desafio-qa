@@ -1,6 +1,6 @@
 # Repositório de Desafios - [João Pedro Sousa da Silva]
 
-Bem-vindo ao meu repositório! Aqui você encontrará os desafios que realizei como parte dos processos seletivos para as vagas de QA e Analista de Requisitos na startup Pigz.
+Bem-vindo! Aqui você encontrará os desafios que realizei como parte dos processos seletivos para as vagas de QA e Analista de Requisitos na Pigz.
 
 ## Sobre Este Repositório
 
